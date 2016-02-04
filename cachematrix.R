@@ -1,4 +1,4 @@
-## This functions used to create special object that contains matrix and can contain cache of 
+## This functions used to create and use special object that contains matrix and can contain cache of 
 ##  inverse of a matrix.
 
 ## This function produce a list of functions to perform 4 operations:
